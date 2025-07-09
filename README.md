@@ -1,2 +1,3 @@
 # Bangalore House Price Prediction using Machine Learning
-#### This code is inspired by youtube tutorial codebasics
+● Implemented Linear Regression model using Python, Docker and automated workflow with Github Actions. 
+● Developed a Flask-based backend to enable quick and efficient data processing. 
